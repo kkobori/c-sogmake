@@ -1,0 +1,16 @@
+﻿BGM max
+BGM 0
+SE max
+SE 0
+BGM 0-max
+BGM max-0
+BGM 0-half
+BGM half-0
+BGM half-max
+BGM max-half
+SE 0-max
+SE max-0
+SE 0-half
+SE half-0
+SE half-max
+SE max-half

@@ -1,0 +1,12 @@
+﻿LV
+EX
+攻撃力
+防御力
+筋力
+敏捷
+器用
+魔力
+MAXHP
+MAXMP
+HP
+MP
